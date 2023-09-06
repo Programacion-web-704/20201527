@@ -1,0 +1,13 @@
+header img{
+    float:left;
+}
+
+header p{
+    position:sticky;
+    float: left;
+    background-color: aliceblue;
+    border: 5px solid salmon;
+}
+
+
+
